@@ -943,6 +943,14 @@
         <code>![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
       </td>
     </tr>
+     <tr>
+      <td>
+        <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
+      </td>
+      <td>
+        <code>![Visual Studio](https://img.shields.io/badge/VisualStudio-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
