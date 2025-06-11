@@ -945,10 +945,10 @@
     </tr>
      <tr>
       <td>
-        <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
+        <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-FF6C37.svg?style=for-the-badge&logo=VisualStudio&logoColor=white">
       </td>
       <td>
-        <code>![Visual Studio](https://img.shields.io/badge/VisualStudio-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</code>
+        <code>![Visual Studio](https://img.shields.io/badge/VisualStudio-FF6C37.svg?style=for-the-badge&logo=VisualStudio&logoColor=white)</code>
       </td>
     </tr>
   </tbody>
